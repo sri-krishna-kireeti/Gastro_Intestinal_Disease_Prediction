@@ -1,0 +1,6 @@
+Dataset Link: https://www.kaggle.com/datasets/plhalvorsen/kvasir-v2-a-gastrointestinal-tract-dataset
+
+
+My credentials to link dataset from kaggle to colab:
+username : srikrishnakireeti
+key : a7e6fb82af4f8fcff5a5163f58f999d7
